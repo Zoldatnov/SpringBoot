@@ -1,4 +1,4 @@
-# Rest Architecture App
+# Spring Boot Application
 ### Requirements:
 * JDK 18 
 * Apache Tomcat 10.0
@@ -10,5 +10,3 @@
 2. Start RabbitMQ service.
 3. Start PostgresQL service.
 4. Compile and run Main.java - String application.
-
-The messages from producer will be displayed in application command line.
